@@ -1,0 +1,14 @@
+{
+  "pan": "ABCDE1234F",
+  "assessment_year": "2023-24",
+  "total_income": 4200000,
+  "business_income": 3500000,
+  "other_income": 700000,
+  "tax_paid": 756000,
+  "refund_status": "No Refund Due",
+  "filing_date": "2023-07-28",
+  "itr_form": "ITR-3",
+  "deductions_claimed": 250000,
+  "tax_regime": "Old",
+  "filing_status": "Original"
+}

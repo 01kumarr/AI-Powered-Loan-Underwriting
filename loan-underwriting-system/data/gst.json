@@ -1,0 +1,13 @@
+{
+  "gstin": "29ABCDE1234F1Z5",
+  "business_name": "ABC Enterprises Pvt Ltd",
+  "registration_date": "2019-04-15",
+  "annual_turnover": 8500000,
+  "tax_paid": 1530000,
+  "compliance_score": 92,
+  "filing_status": "Regular",
+  "last_return_filed": "2024-06-30",
+  "business_address": "123 MG Road, Bangalore, Karnataka",
+  "returns_filed_on_time": 45,
+  "total_returns_filed": 48
+}

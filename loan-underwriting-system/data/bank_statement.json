@@ -1,0 +1,17 @@
+{
+  "account_number": "XXXX1234",
+  "bank_name": "State Bank of India",
+  "account_type": "Current",
+  "average_balance": 850000,
+  "total_credits": 12500000,
+  "total_debits": 11650000,
+  "loan_emis": [
+    {
+      "type": "Business Loan",
+      "emi_amount": 45000,
+      "remaining_months": 18
+    }
+  ],
+  "bounced_cheques": 0,
+  "statement_period": "2023-07-01 to 2024-06-30"
+}
